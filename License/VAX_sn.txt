@@ -1,0 +1,26 @@
+Thank you for your order.
+ 
+In order to better serve our customers and restrict usage to only licensed users, product registration is now required for Whole Tomato products. The information captured will be used to notify End Users about updates, patches, special offers, news and other that may impact user performance.  Registration will also provide information related to the operating systems on which a product is used.
+Our Internet registration solution will require Users to complete a simple form prior to the first use of the product. Registration will need to be completed on a computer connected to the internet via web browser; it doesn’t have to be the same computer on which the software will be loaded.
+ 
+Through the registration process, Users will provide the following information:
+- End User Name
+- Email Address
+- Username/Password
+- Company Name, where applicable
+- Country & State where applicable
+If necessary, the same product can be re-installed as long as the User complies with the terms of the product license agreement. This should cover those situations where, for instance, a hard drive must be re-built, multiple machines are used by the End User, or the User has a machine at work and at home.
+ 
+Download the latest build of Visual Assist from: https://www.wholetomato.com/downloads/archive
+ 
+The serial number on this purchase allows up to 3 users.
+ 
+Serial Number(s):
+4DFL-VUAYQJ-5XX9FK-32QD
+
+
+
+Email:  davisli@cisco.com
+Password:  Lenovo&0506
+
+https://my.embarcadero.com/#userProfile
