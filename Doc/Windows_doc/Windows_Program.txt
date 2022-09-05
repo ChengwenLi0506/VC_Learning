@@ -1,1 +1,3 @@
+Windows程序设计
+深入浅出MFC
 这二本书是关于Windows编程的经典
