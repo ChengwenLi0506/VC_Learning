@@ -19,6 +19,7 @@ IMPLEMENT_DYNAMIC(CMainFrame, CFrameWnd)
 BEGIN_MESSAGE_MAP(CMainFrame, CFrameWnd)
 	ON_WM_CREATE()
 	ON_WM_SETFOCUS()
+	//ON_COMMAND(ID_APP_ABOUT, &CMainFrame::OnAppAbout)
 END_MESSAGE_MAP()
 
 static UINT indicators[] =
@@ -107,3 +108,10 @@ BOOL CMainFrame::OnCmdMsg(UINT nID, int nCode, void* pExtra, AFX_CMDHANDLERINFO*
 	return CFrameWnd::OnCmdMsg(nID, nCode, pExtra, pHandlerInfo);
 }
 
+
+
+void CMainFrame::OnAppAbout()
+{
+	// TODO: Add your command handler code here
+
+}
