@@ -17,3 +17,8 @@ git lfs track "*.pdf"
 
 guide:  
 https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage
+
+
+clear git history, let git become a clean project
+git checkout --orphan [新分支名]
+
